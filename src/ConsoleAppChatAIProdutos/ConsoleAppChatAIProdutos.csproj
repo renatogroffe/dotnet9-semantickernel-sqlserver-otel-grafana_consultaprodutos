@@ -16,11 +16,11 @@
     <PackageReference Include="dbup-sqlserver" Version="6.0.0" />
     <PackageReference Include="Grafana.OpenTelemetry" Version="1.2.0" />
     <PackageReference Include="linq2db" Version="5.4.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="9.0.5" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.5" />
-    <PackageReference Include="Microsoft.SemanticKernel" Version="1.55.0" />
-    <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.55.0-alpha" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.6" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.57.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Connectors.Ollama" Version="1.57.0-alpha" />
     <PackageReference Include="OpenTelemetry.Instrumentation.Http" Version="1.12.0" />
     <PackageReference Include="OpenTelemetry.Instrumentation.SqlClient" Version="1.12.0-beta.1" />
     <PackageReference Include="Sharprompt" Version="3.0.0" />
